@@ -5,4 +5,4 @@
 [submodule "b"]
 	path = b
 	url = git@github.com:douglaslira/angularmodules.git
-	branch = directive
+	branch = master
