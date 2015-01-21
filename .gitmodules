@@ -2,3 +2,7 @@
 	path = a
 	url = git@github.com:douglaslira/angularmodules.git
 	branch = auth
+[submodule "b"]
+	path = b
+	url = git@github.com:douglaslira/angularmodules.git
+	branch = master
